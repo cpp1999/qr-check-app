@@ -1,8 +1,8 @@
-const APP_TOKEN = "你的表格app_token";
-const TABLE_ID = "你的table_id";
-const FIELD_ID = "fldxxxx"; // 存二维码内容的列
-const APP_ID = "xxx";       // 飞书应用ID
-const APP_SECRET = "yyy";   // 飞书应用secret
+const APP_TOKEN = "C3nBb8VJdaKOeOsc7uKclUy2nrd";
+const TABLE_ID = "tblGeBIu3H0UesCX";
+const FIELD_ID = "fldvVbzNst"; // 存二维码内容的列
+const APP_ID = "cli_a74abc3a3566500e";       // 飞书应用ID
+const APP_SECRET = "oVderkx278eCcZrYbYEKd2JJRm1G6AYY";   // 飞书应用secret
 
 let tenantAccessToken = null;
 
